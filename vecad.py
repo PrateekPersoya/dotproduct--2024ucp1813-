@@ -7,4 +7,4 @@ else:
     print("Dot Product:", dotproduct)
 
 #python
-
+#Changes done by Prateek
