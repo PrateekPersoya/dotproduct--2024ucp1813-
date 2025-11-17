@@ -7,4 +7,5 @@ else:
     print("Dot Product:", dotproduct)
 
 #python
-
+#thats fantastic no changes 
+# but i fixed a crazy bug 😀️
